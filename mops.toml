@@ -1,6 +1,6 @@
 [package]
-name = "assets_api"
-version = "1.0.0"
+name = "assets-api"
+version = "1.0.1"
 description = "The API scheme of asset canisters"
 repository = "https://github.com/vporton/assets_api.mo"
 keywords = [ "asset", "canister", "frontend" ]
